@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="gabung_sekarang_btn">Gabung Sekarang</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="atau_masuk_dengan">atau masuk dengan</string>
+    <string name="atau_daftar_dengan">atau daftar dengan</string>
+    <string name="dengan_daftar_disini_kamu_menyetujui_syarat_amp_ketentuan_serta_kebijakan_privasi_tokophincon"><![CDATA[Dengan daftar disini, kamu menyetujui Syarat & Ketentuan serta Kebijakan Privasi TokoPhincon.]]></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dengan_masuk_disini_kamu_menyetujui_syarat_amp_ketentuan_serta_kebijakan_privasi_tokophincon"><![CDATA[Dengan masuk disini, kamu menyetujui Syarat & Ketentuan serta Kebijakan Privasi TokoPhincon.]]></string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
